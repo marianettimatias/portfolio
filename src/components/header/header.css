@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 4rem;
     overflow: hidden;
 }
 
@@ -9,11 +9,19 @@ header {
     height: 100%;
     position: relative;
 }
+.text-light{
+    font-size: 1.1rem;
+}
+.header__p{
+    margin: 1rem 0 2.6rem;
+    color:var(--color-light);
+    font-size: 1.2rem;
+}
 
 /* ======== CTA ==========*/
 
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 1.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -26,7 +34,7 @@ header {
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     bottom: 30rem;
 }
 
@@ -44,9 +52,9 @@ header {
     background: linear-gradient(var(--color-primary), transparent);
     width: 23rem;
     height: 16rem;
-    position: absolute;
+    position: relative;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-top: 3.5rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
     padding: 1rem 1rem 1rem 2.5rem;
@@ -62,6 +70,8 @@ header {
     font-weight: 300;
     font-size: 1.5rem;
 }
+
+
 
 /* ============ MEDIA QUERIES (MEDIUM DEVICES) ===========*/
 
