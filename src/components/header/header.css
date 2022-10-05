@@ -9,6 +9,10 @@ header {
     height: 100%;
     position: relative;
 }
+.header_contanier p{
+    margin: 2rem 0 2.6rem;
+    color:var(--color-light);
+}
 
 /* ======== CTA ==========*/
 
@@ -26,7 +30,7 @@ header {
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     bottom: 30rem;
 }
 
@@ -62,6 +66,8 @@ header {
     font-weight: 300;
     font-size: 1.5rem;
 }
+
+
 
 /* ============ MEDIA QUERIES (MEDIUM DEVICES) ===========*/
 
