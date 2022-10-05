@@ -6,18 +6,24 @@ import HeaderSocials from './HeaderSocials'
 
 function Header() {
   return (
-   
+
     <header>
       <div className="container header__container">
         <h1>Matías Marianetti</h1>
         <h5 className="text-light">Full Stack Developer | Ingeniero Industrial</h5>
-        <CTA />
+        <p className='header__p'>
+          Hola, mi nombre es Matías soy Ingeniero Industrial y recientemente graduado como Desarrollador Web Full Stack. Soy una persona proactiva, analítica y apasionado por la tecnología. En mis trabajos anteriores participé en proyectos de desarrollo de productos lo cual me ayudó a fortalecer las habilidades de trabajo en equipo y compañerismo.
+        </p>
+       
         <HeaderSocials />
         <div className='me'>
-          <img src={ME} alt="me" />         
+          <img src={ME} alt="me" />
         </div>
+        <CTA />
         <a href="#contact" className='scroll_down'>Scroll Down</a>
+       
       </div>
+     
     </header>
   )
 }

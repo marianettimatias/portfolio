@@ -14,7 +14,7 @@ function Nav() {
   return (
     <nav>
       <a href="#" onClick={()=> setActiveNav('#')}  className= {activeNav==='#'? 'active' :''}><AiOutlineHome /></a>
-      <a href="#about" onClick={()=> setActiveNav('#about')} className= {activeNav==='#about'? 'active' :''}> <AiOutlineUser /> </a>
+      {/* <a href="#about" onClick={()=> setActiveNav('#about')} className= {activeNav==='#about'? 'active' :''}> <AiOutlineUser /> </a> */}
       <a href="#skills" onClick={()=> setActiveNav('#skills')} className= {activeNav==='#skills'? 'active' :''}><VscTools/></a>
       <a href="#works" onClick={()=> setActiveNav('#works')} className= {activeNav==='#works'? 'active' :''}><MdWorkOutline/></a>
       <a href="#contact" onClick={()=> setActiveNav('#contact')} className= {activeNav==='#contact'? 'active' :''}><MdOutlineContactPhone/></a>
