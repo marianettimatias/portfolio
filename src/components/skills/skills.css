@@ -34,10 +34,17 @@
     row-gap: 2rem;
     grid-gap: 2rem;
 }
+.experience_frontend > h3{
+    font-size: 1.5rem;
+}
+.experience_backend > h3{
+    font-size: 1.5rem;
+}
 
 .experience_details {
     display: flex;
     gap: 1rem;
+font-size: 1.2rem;
 }
 
 .experience_details-icon {
