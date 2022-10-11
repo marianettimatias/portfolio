@@ -7,7 +7,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Dogs',
+    title: 'Dogs App',
     github: 'https://github.com/marianettimatias/PI-Dogs',
     demo: 'https://dogs-app-marianettimatias.vercel.app/',
   },
