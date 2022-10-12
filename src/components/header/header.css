@@ -13,7 +13,7 @@ header {
     font-size: 1.1rem;
 }
 .header__p{
-    margin: 1rem 0 2.6rem;
+    margin: 1rem 0 2rem;
     color:var(--color-light);
     font-size: 1.2rem;
 }
@@ -21,7 +21,7 @@ header {
 /* ======== CTA ==========*/
 
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 4rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -54,7 +54,7 @@ header {
     height: 20rem;
     position: relative;
     left: calc(50% - 11rem);
-    margin-top: 6.5rem;
+    margin-top: 4rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
     padding: 3.3rem 1rem 1rem 2.5rem;
