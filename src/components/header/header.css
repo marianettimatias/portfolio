@@ -1,5 +1,5 @@
 header {
-    height: 80vh;
+    height: 100vh;
     padding-top: 2rem;
     overflow: hidden;
 }
@@ -21,7 +21,7 @@ header {
 /* ======== CTA ==========*/
 
 .cta {
-    margin-top: 1.5rem;
+    margin-top: 2.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -35,7 +35,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     font-size: 2.5rem;
-    bottom: 3rem;
+    bottom: 5rem;
 }
 
 
@@ -50,14 +50,14 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 23rem;
-    height: 16rem;
+    width: 25rem;
+    height: 20rem;
     position: relative;
     left: calc(50% - 11rem);
-    margin-top: 3.5rem;
+    margin-top: 6.5rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
-    padding: 1rem 1rem 1rem 2.5rem;
+    padding: 3.3rem 1rem 1rem 2.5rem;
 }
 
 /* ======== SCROLL DOWN ==========*/
