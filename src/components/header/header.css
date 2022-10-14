@@ -51,10 +51,10 @@ header {
 
  .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 20rem;
-    height: 20rem;
+    width: 28rem;
+    height: 22rem;
     position: relative;
-    left: calc(50% - 11rem);
+    left: calc(50% - 15rem);
     margin-top: 4rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
@@ -77,17 +77,17 @@ header {
 
 /* ============ MEDIA QUERIES (MEDIUM DEVICES) ===========*/
 
-/*
+
  @media screen and (max-width:1024px) {
     header {
        height: 68vh; 
     }
 } 
-*/
+
 
 /* ============ MEDIA QUERIES (SMALL DEVICES) ===========*/
 
-/*
+
  @media screen and (max-width:600px) {
     header {
        height: 100vh;
@@ -97,4 +97,4 @@ header {
        display: none;
     }
 } 
-*/
+
