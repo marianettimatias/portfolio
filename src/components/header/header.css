@@ -48,7 +48,8 @@ header {
 
 /* ======== IMG ME ==========*/
 
-.me {
+/*
+ .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 25rem;
     height: 20rem;
@@ -59,6 +60,7 @@ header {
     overflow: hidden;
     padding: 3.3rem 1rem 1rem 2.5rem;
 }
+ */
 
 /* ======== SCROLL DOWN ==========*/
 
@@ -75,7 +77,8 @@ header {
 
 /* ============ MEDIA QUERIES (MEDIUM DEVICES) ===========*/
 
-/* @media screen and (max-width:1024px) {
+/*
+ @media screen and (max-width:1024px) {
     header {
        height: 68vh; 
     }
@@ -84,7 +87,8 @@ header {
 
 /* ============ MEDIA QUERIES (SMALL DEVICES) ===========*/
 
-/* @media screen and (max-width:600px) {
+/*
+ @media screen and (max-width:600px) {
     header {
        height: 100vh;
     }
