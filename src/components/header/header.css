@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 2rem;
+    padding-top: 1.4rem;
     overflow: hidden;
 }
 
@@ -13,9 +13,9 @@ header {
     font-size: 1.1rem;
 }
 .header__p{
-    margin: 1rem 0 2rem;
+    margin: 0.9rem 0;
     color:var(--color-light);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 /* ======== CTA ==========*/
@@ -51,14 +51,14 @@ header {
 
  .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 28rem;
-    height: 22rem;
+    width: 24rem;
+    height: 18.5rem;
     position: relative;
-    left: calc(50% - 15rem);
-    margin-top: 4rem;
+    left: calc(50% - 12rem);
+    margin-top: 2rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
-    padding: 3.3rem 1rem 1rem 2.5rem;
+    padding: 2.3rem 1rem 1rem 2.5rem;
 }
 
 
