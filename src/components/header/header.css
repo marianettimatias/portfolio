@@ -48,10 +48,10 @@ header {
 
 /* ======== IMG ME ==========*/
 
-/*
+
  .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 25rem;
+    width: 20rem;
     height: 20rem;
     position: relative;
     left: calc(50% - 11rem);
@@ -60,7 +60,7 @@ header {
     overflow: hidden;
     padding: 3.3rem 1rem 1rem 2.5rem;
 }
- */
+
 
 /* ======== SCROLL DOWN ==========*/
 
