@@ -21,7 +21,7 @@ header {
 /* ======== CTA ==========*/
 
 .cta {
-    margin-top: 4rem;
+    margin-top: 2.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -52,10 +52,10 @@ header {
  .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 24rem;
-    height: 18.5rem;
+    height: 18rem;
     position: relative;
     left: calc(50% - 12rem);
-    margin-top: 3rem;
+    margin-top: 1rem;
     border-radius: 7rem 7rem 0rem 0rem;
     overflow: hidden;
     padding: 2.3rem 1rem 1rem 2.2rem;
